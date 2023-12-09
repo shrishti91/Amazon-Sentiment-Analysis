@@ -25,3 +25,5 @@ Now, we have entered a negative review taken from the Amazon website, and let's 
 
 ![Screenshot 2023-07-01 093508](https://github.com/Hirshikesh2003/Review-Analysis-using-NLP/assets/78225619/9069e2fe-4b8e-49ff-aee3-87e8aeec2a76)
 
+Thank You!!!!!!!!!!!!!!!!!!!!!!
+
